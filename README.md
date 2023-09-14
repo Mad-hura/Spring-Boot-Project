@@ -19,6 +19,7 @@ kafka-console-consumer.bat --bootstrap-server localhost:9092  --topic courseTopi
 
 6.Postman
 ->POST---localhost:8081/student
+
 {
     "studentName":"nami",
     "course":
