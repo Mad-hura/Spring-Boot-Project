@@ -21,9 +21,11 @@ kafka-console-consumer.bat --bootstrap-server localhost:9092  --topic courseTopi
 ->POST---localhost:8081/student
 
 {
+
     "studentName":"nami",
     
     "course":
+    
     {
         "courseName":"Jquery",
         
