@@ -22,10 +22,13 @@ kafka-console-consumer.bat --bootstrap-server localhost:9092  --topic courseTopi
 
 {
     "studentName":"nami",
+    
     "course":
     {
         "courseName":"Jquery",
+        
         "category":"Library",
+        
         "price":800
     }
 
